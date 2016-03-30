@@ -1,1 +1,4 @@
-HelloServlet.class
+sm/bin/sm/HelloServlet.class
+sm/bin/sm/model/Customer.class
+sm/bin/sm/service/CustomerService.class
+sm/bin/sm/controller/CustomerCreateServlet.class
