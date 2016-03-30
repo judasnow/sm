@@ -1,0 +1,8 @@
+127.0.0.1 - - [30/Mar/2016:09:11:32 +0800] "GET / HTTP/1.1" 404 - http-bio-8080-exec-1 0
+127.0.0.1 - - [30/Mar/2016:09:11:32 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-2 0
+127.0.0.1 - - [30/Mar/2016:09:11:33 +0800] "GET / HTTP/1.1" 404 - http-bio-8080-exec-3 0
+127.0.0.1 - - [30/Mar/2016:09:11:43 +0800] "GET /hello HTTP/1.1" 404 - http-bio-8080-exec-4 0
+127.0.0.1 - - [30/Mar/2016:09:11:50 +0800] "GET /hello HTTP/1.1" 404 - http-bio-8080-exec-5 0
+127.0.0.1 - - [30/Mar/2016:09:11:55 +0800] "GET /hello HTTP/1.1" 404 - http-bio-8080-exec-6 0
+127.0.0.1 - - [30/Mar/2016:09:11:59 +0800] "GET /hello HTTP/1.1" 404 - http-bio-8080-exec-7 0
+127.0.0.1 - - [30/Mar/2016:09:12:13 +0800] "GET /hello HTTP/1.1" 404 - http-bio-8080-exec-8 0
